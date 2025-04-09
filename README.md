@@ -1,6 +1,6 @@
 # 🚌 Análisis de Movilidad Pública en Argentina (2024)
 
-Este proyecto explora el uso del transporte público en Argentina durante el año 2024, utilizando datos abiertos procesados con PySpark en Databricks y visualizados en Power BI Online.
+Este proyecto explora el uso del transporte público en Argentina durante el año 2024, utilizando datos abiertos procesados con PySpark en Databricks y visualizados en R Studio.
 
 ---
 
@@ -24,7 +24,7 @@ Este proyecto explora el uso del transporte público en Argentina durante el añ
 3. **Agrupación y transformación**:
    - Total de viajes por provincia, fecha y tipo de transporte
 4. **Exportación del dataset final** como `.csv` desde Databricks.
-5. **Visualización interactiva** con Power BI Online.
+5. **Visualización exploratoria** realizada con R (ggplot2).
 
 ---
 
