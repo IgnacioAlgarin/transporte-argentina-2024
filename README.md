@@ -36,9 +36,7 @@ Este proyecto explora el uso del transporte público en Argentina durante el añ
 
 ---
 
-## 📁 Estructura del proyecto
-
-<pre> ```markdown ## 📁 Estructura del proyecto ``` transporte-argentina-2024/ ├── resumen_transporte.csv ├── dashboard_powerbi_online.png (opcional) └── README.md ``` ``` </pre>
+<pre> ```## 📁 Estructura del proyecto ``` transporte-argentina-2024/ ├── resumen_transporte.csv ├── dashboard_powerbi_online.png (opcional) └── README.md ``` ``` </pre>
 
 ---
 
