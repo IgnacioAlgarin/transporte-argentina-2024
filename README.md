@@ -65,4 +65,4 @@ Estudiante de Lic. en Ciencia de Datos – Universidad Nacional de San Martín (
 
 ## 📌 Dataset original
 
-- Fuente: [Transporte público de Argentina – datos.gob.ar]([https://datos.gob.ar](https://datos.gob.ar/dataset/transporte-sube---cantidad-transacciones-usos-por-fecha/archivo/transporte_c7dad6d8-8fe4-449e-82c9-18ed8574eae8))
+- Fuente: [datos.gob.ar – Cantidad de transacciones SUBE por fecha](https://datos.gob.ar/dataset/transporte-sube---cantidad-transacciones-usos-por-fecha/archivo/transporte_c7dad6d8-8fe4-449e-82c9-18ed8574eae8)
