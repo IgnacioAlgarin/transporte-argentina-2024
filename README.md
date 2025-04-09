@@ -30,7 +30,7 @@ Este proyecto explora el uso del transporte público en Argentina durante el añ
 
 ## 📷 Vista del gráfico resumen
 
-![Gráfico de viajes por provincia](dashboard/grafico_resumen.png)
+![Gráfico de viajes por provincia](/home/ignacio_algarin/dashboard/grafico_resumen.png)
 
 ---
 
