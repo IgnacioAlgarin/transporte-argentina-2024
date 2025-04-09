@@ -28,6 +28,12 @@ Este proyecto explora el uso del transporte público en Argentina durante el añ
 
 ---
 
+## 📷 Vista del gráfico resumen
+
+![Gráfico de viajes por provincia](dashboard/grafico_resumen.png)
+
+---
+
 ## 📊 Resultados destacados
 
 - **Buenos Aires** concentra la mayor parte del uso del transporte público en Argentina.
