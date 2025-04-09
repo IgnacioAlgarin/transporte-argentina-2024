@@ -9,7 +9,7 @@ Este proyecto explora el uso del transporte público en Argentina durante el añ
 - 🐍 Python
 - 🔥 PySpark
 - 🧠 Databricks Community Edition
-- 📊 Power BI Online
+- 📊 R Studio
 - 📁 DBFS / CSV
 
 ---
